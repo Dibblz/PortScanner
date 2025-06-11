@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
-#=========================================================#
+#Created by Devin Webster
+#2017
+
 from optparse import OptionParser
 from socket import *
 
